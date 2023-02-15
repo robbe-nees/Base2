@@ -10,9 +10,6 @@
     grid-column-gap: 16px;
 }
 
-#NAV-Contribute a {
-    text-decoration: underline;
-}
 
 #NAV-Contribute .wg-dropdown-2 {
     z-index: 999999;
