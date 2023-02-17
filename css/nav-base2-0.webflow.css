@@ -324,6 +324,7 @@
     text-decoration: none;
 }
 
+
 #NAV-Contribute .nav-logo {
     position: relative;
     z-index: 99999;
@@ -688,4 +689,16 @@
     align-self: auto;
     -ms-grid-column-align: auto;
     justify-self: auto;
+}
+
+#NAV-Contribute #initials-container {
+  	display: flex !important;
+}
+
+#NAV-Contribute .initials-text{
+  	margin-top: auto;
+  	margin-right: auto;
+  	margin-bottom: auto;
+  	margin-left: auto;
+  	align-self: center;
 }
